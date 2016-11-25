@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ContactManagerContext-Web.config Connection String" description="ContactManagerContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\v11.0; Initial Catalog=ContactManagerContext-20161124171006; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|ContactManagerContext-20161124171006.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\vvsre\\documents\\visual\ studio\ 2013\\Projects\\ContactManager\\ContactManager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ContactManagerContext']/@connectionString" />
+  </parameter>
+  <parameter name="ContactManagerContext_DatabasePublish-Web.config Connection String" description="ContactManagerContext_DatabasePublish Connection String used in web.config by the application to access the database." defaultValue="ContactManagerContext_DatabasePublish.ConnetionString" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\vvsre\\documents\\visual\ studio\ 2013\\Projects\\ContactManager\\ContactManager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ContactManagerContext_DatabasePublish']/@connectionString" />
+  </parameter>
+</parameters>

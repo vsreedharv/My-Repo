@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="ContactManager0004" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^c:\\users\\vvsre\\documents\\visual\ studio\ 2013\\Projects\\ContactManager\\ContactManager\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^c:\\users\\vvsre\\documents\\visual\ studio\ 2013\\Projects\\ContactManager\\ContactManager\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="ContactManagerContext-Web.config Connection String" description="" value="Data Source=tcp:cw2hkunh0c.database.windows.net,1433;Initial Catalog=ContactManager0004_db;User Id=dbuser@cw2hkunh0c;Password=VVSreedhar11!;" tags="">
+    <parameterEntry kind="XmlFile" scope="c:\\users\\vvsre\\documents\\visual\ studio\ 2013\\Projects\\ContactManager\\ContactManager\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ContactManagerContext']/@connectionString" />
+  </parameter>
+</parameters>
