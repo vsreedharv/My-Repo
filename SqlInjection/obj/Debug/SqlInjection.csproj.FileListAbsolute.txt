@@ -18,3 +18,5 @@ c:\users\venkata\documents\visual studio 2015\Projects\SqlInjection\SqlInjection
 c:\users\venkata\documents\visual studio 2015\Projects\SqlInjection\SqlInjection\obj\Debug\SqlInjection.csprojResolveAssemblyReference.cache
 c:\users\venkata\documents\visual studio 2015\Projects\SqlInjection\SqlInjection\obj\Debug\SqlInjection.dll
 c:\users\venkata\documents\visual studio 2015\Projects\SqlInjection\SqlInjection\obj\Debug\SqlInjection.pdb
+C:\Users\Venkata\Git\VSV-Repo\SqlInjection\obj\Debug\SqlInjection.dll
+C:\Users\Venkata\Git\VSV-Repo\SqlInjection\obj\Debug\SqlInjection.pdb
