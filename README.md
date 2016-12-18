@@ -1,2 +1,4 @@
-# VSV-Repo
-
+- Rest Service(Azure Deployement) - ContactManager 
+- Entity Framework
+- SQL Injection
+- ADO.NET
